@@ -1,4 +1,4 @@
-# 🖥️ Instalador Automático de Softwares para Windows
+# 🖥️ Instalador Automático de Softwares para Windows.
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue) ![Windows](https://img.shields.io/badge/Windows-10%2B-green) ![License](https://img.shields.io/badge/License-MIT-lightgrey)
 
